@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Icapinto]
 
 I am a Fullstack Developer and Analyst currently working with a variety of technologies and tools. I'm passionate about developing scalable and efficient solutions, and I'm constantly looking to improve my skills in both front-end and back-end development.
 
